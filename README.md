@@ -62,8 +62,9 @@ application/cache/
 akan dibuat otomatis oleh CodeIgniter saat jalan.
 
 ❗ Kapan project BISA bermasalah setelah clone?
+
 Penyebab dan Solusi
-Lupa flutter pub get = Jalankan perintahnya
-Lupa composer install = Install dependency
-Database belum di-import = Import file .sql manual
-File .env tidak ada = Buat ulang sesuai konfigurasi
+- Lupa flutter pub get = Jalankan perintahnya
+- Lupa composer install = Install dependency
+- Database belum di-import = Import file .sql manual
+- File .env tidak ada = Buat ulang sesuai konfigurasi
