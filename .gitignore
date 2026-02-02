@@ -1,0 +1,53 @@
+############################
+# FLUTTER / DART
+############################
+**/.dart_tool/
+**/.packages
+**/.pub/
+**/build/
+**/coverage/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.metadata
+
+vigen-flutter/**/android/.gradle/
+vigen-flutter/**/android/app/build/
+vigen-flutter/**/ios/Pods/
+vigen-flutter/**/ios/.symlinks/
+vigen-flutter/**/ios/Flutter/Flutter.framework
+vigen-flutter/**/ios/Flutter/Flutter.podspec
+vigen-flutter/**/windows/flutter/ephemeral/
+vigen-flutter/**/linux/flutter/ephemeral/
+
+############################
+# PHP / CODEIGNITER
+############################
+vigenesia/application/cache/*
+vigenesia/application/logs/*
+vigenesia/vendor/
+vigenesia/uploads/
+vigenesia/.env
+
+############################
+# DATABASE / FILE BESAR
+############################
+*.sql
+*.zip
+*.rar
+*.7z
+
+############################
+# EDITOR / OS
+############################
+.vscode/
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
+
+############################
+# LOGS & TEMP
+############################
+*.log
+*.tmp
+*.lock
